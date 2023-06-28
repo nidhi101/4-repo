@@ -1,0 +1,1 @@
+print("we are in the era of AI if you learn you will grow ")
